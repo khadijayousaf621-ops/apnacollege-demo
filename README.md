@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Aurthor - Khadija Yousaf
+Aurthor - Khadija (Apna College)
